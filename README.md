@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Whyp 音频下载器 🎧
 
 一个用于解析并下载 [Whyp.it](https://whyp.it) 上音频的 Python 小工具。
@@ -39,3 +40,7 @@ git remote add origin https://github.com/你的用户名/WhypDownloader.git
 git add .
 git commit -m "首次提交：添加 GUI 下载器源码"
 git push -u origin master
+=======
+# WhypDownloader
+一个 Whyp 音频解析下载工具，支持 GUI 下载
+>>>>>>> 4f7d0983e29036897122d9df33bc47890f485564
